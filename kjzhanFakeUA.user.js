@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         阻止课件站跳转
+// @name         阻止课件站跳转下载 2345 加速浏览器
 // @namespace    https://github.com/Rongronggg9/kjzhanFakeUA
-// @version      0.1
+// @version      0.1a
 // @description  There should not be a browser called 2345Explorer :)
 // @author       Rongronggg9
 // @match        *://www.kjzhan.com/*
