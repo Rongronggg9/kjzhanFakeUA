@@ -2,6 +2,8 @@
 
 [www.kjzhan.com](http://www.kjzhan.com)
 
+**[Greasy Fork](https://greasyfork.org/zh-CN/scripts/30689)**
+
 ## 原理
 
 通过返回错误 ~~(正确)~~ 的 User-Agent 欺骗网页。
